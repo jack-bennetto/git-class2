@@ -1,5 +1,5 @@
 new line at top
-# git-class2
+# git-class2 foo
 
 different line
 
